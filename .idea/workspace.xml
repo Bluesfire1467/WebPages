@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcf6268a-d4cb-468c-9c5a-33073e38664a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ckcfiMWrylx0GMP0MEkjWBcb7T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Escritorio/Curso Udemy/Desarrollo Web Completo con HTML5 CSS, JS, PHP MySQL&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.HTML&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Escritorio\Curso Udemy\Desarrollo Web Completo con HTML5 CSS, JS, PHP MySQL" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Escritorio\Curso Udemy\Desarrollo Web Completo con HTML5 CSS, JS, PHP MySQL\freelancer_inicio\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcf6268a-d4cb-468c-9c5a-33073e38664a" name="Changes" comment="" />
+      <created>1708659122375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708659122375</updated>
+      <workItem from="1708659124680" duration="2550000" />
+      <workItem from="1708661697926" duration="1100000" />
+      <workItem from="1708823083045" duration="1665000" />
+      <workItem from="1708980742182" duration="9149000" />
+      <workItem from="1709170742658" duration="1386000" />
+      <workItem from="1709379828717" duration="6259000" />
+      <workItem from="1709401379679" duration="1985000" />
+      <workItem from="1709485362438" duration="8309000" />
+      <workItem from="1709569140904" duration="5146000" />
+      <workItem from="1710167285486" duration="10123000" />
+      <workItem from="1710303850381" duration="56000" />
+      <workItem from="1710304377068" duration="227000" />
+      <workItem from="1710470921475" duration="3490000" />
+      <workItem from="1710519657056" duration="2411000" />
+      <workItem from="1711225082072" duration="4049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
