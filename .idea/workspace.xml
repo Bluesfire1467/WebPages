@@ -5,44 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcf6268a-d4cb-468c-9c5a-33073e38664a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/img/gato.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/08.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/14.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/15(1).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/15.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/16-funciones.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/17.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/18.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/20.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/21.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/22.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/23-switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/24-loops.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/25-foreach.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/26-this.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/27-POO.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/28-Classes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/29.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/30-Promises.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/31.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/32.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/33.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 5/IntroduccionJS/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 6/JavaScript_DOM_Eventos_inicio/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 6/JavaScript_DOM_Eventos_inicio/js/eventos.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/contacto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/cursos.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/cursos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/entrada.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/entrada.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/js/modernizr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/js/modernizr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/nosotros.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto 4/blogdecafe_inicio/nosotros.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,23 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Escritorio/Curso Udemy/Desarrollo Web Completo con HTML5 CSS, JS, PHP MySQL/Proyecto 5/IntroduccionJS&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.JavaScript&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Node.js.eventos.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Escritorio/Curso Udemy/Desarrollo Web Completo con HTML5 CSS, JS, PHP MySQL/Proyecto 5/IntroduccionJS",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.JavaScript",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Escritorio\Curso Udemy\Desarrollo Web Completo con HTML5 CSS, JS, PHP MySQL\Proyecto 5\IntroduccionJS" />
@@ -101,6 +67,16 @@
       <recent name="D:\Escritorio\Curso Udemy\Desarrollo Web Completo con HTML5 CSS, JS, PHP MySQL\Proyecto 5\IntroduccionJS\img" />
       <recent name="D:\Escritorio\Curso Udemy\Desarrollo Web Completo con HTML5 CSS, JS, PHP MySQL\freelancer_inicio\img" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="eventos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Proyecto 6/JavaScript_DOM_Eventos_inicio/js/eventos.js" working-dir="$PROJECT_DIR$/Proyecto 6/JavaScript_DOM_Eventos_inicio/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.eventos.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -130,7 +106,9 @@
       <workItem from="1711597501276" duration="1151000" />
       <workItem from="1711820876726" duration="2149000" />
       <workItem from="1711908375985" duration="12353000" />
-      <workItem from="1712010167613" duration="2856000" />
+      <workItem from="1712010167613" duration="3942000" />
+      <workItem from="1712438727357" duration="6266000" />
+      <workItem from="1712533847850" duration="1975000" />
     </task>
     <servers />
   </component>
