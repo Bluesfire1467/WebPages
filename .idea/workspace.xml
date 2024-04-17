@@ -5,8 +5,153 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcf6268a-d4cb-468c-9c5a-33073e38664a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Proyecto 6/JavaScript_DOM_Eventos_inicio/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto 6/JavaScript_DOM_Eventos_inicio/js/eventos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/css/app.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/grande/9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/icono_edm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/icono_edm.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/icono_rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/icono_rock.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/imagen_rock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/imagen_rock.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/imagen_vocalista.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/imagen_vocalista.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/img/thumb/9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/build/js/galeria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/._grande" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/._icono_edm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/._icono_rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/._imagen_rock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/._imagen_vocalista.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/._thumb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/._9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/grande/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/icono_edm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/icono_rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/imagen_rock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/imagen_vocalista.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/imagen_vocalista.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/._9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/img/thumb/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/js/galeria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/base/_globales.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/base/_index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/base/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/base/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/base/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/layout/_boletos.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/layout/_festival.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/layout/_galeria.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/layout/_index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/layout/_lineup.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/src/scss/layout/_video.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/video/._concierto.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/video/._concierto.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/video/._concierto.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/video/concierto.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/video/concierto.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto 7/FestivalMusica_inicio/video/concierto.webm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +199,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.JavaScript",
+    "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -109,6 +254,7 @@
       <workItem from="1712010167613" duration="3942000" />
       <workItem from="1712438727357" duration="6266000" />
       <workItem from="1712533847850" duration="1975000" />
+      <workItem from="1713392296534" duration="1387000" />
     </task>
     <servers />
   </component>
